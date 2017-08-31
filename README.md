@@ -4,7 +4,7 @@ Git / jenkins usage demo
 Tehtäviä:
 
 - Tehkää GITHUB tunnus / tunnukset
-- Ottakaa kopio tästä repositorystä
+- Coonatkaa tämä repository ja tehkää uusi branch
 - Tehkää python-scripti joka filtteröi pybot --help komennsta annetun merkkijonon sisältävät rivit
 - Tekovaiheessa, käyttäkää 
 - Tehkää jenkins projekti joka:
