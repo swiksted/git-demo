@@ -11,3 +11,10 @@ Tehtäviä:
     - käyttää aiemmin luotua git repositoryä
     - Ottaa käynistyksessä parametrina haettavan merkkijoon
     - Tallettaa python scriptin palauttamat rivit artifact tiedostoon 
+
+Vaihtoehtoisesti:
+
+- Siirtäkää eilen tehty robot-suite GIThubiin
+- Projekti jenkinsille joka käyttää ko. repositoryä
+- Projektilla voi määrittää halutun selaimen jenkins-muuttujana
+- Projekti ottaa jenkinsin ajolokin talteen.
