@@ -4,7 +4,7 @@ Library    Selenium2Library
 # Test Teardown    Close Browser
 
 *** Variables ***
-${HOST}                  http://127.0.0.0:7272
+${HOST}                  http://localhost:7272
 ${VALID_USERNAME}        demo
 ${VALID_PASSWORD}        mode
 ${WELCOME_PAGE_TITLE}    Welcome Page
