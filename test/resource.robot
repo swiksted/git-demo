@@ -2,7 +2,7 @@
 Library    Selenium2Library
 
 *** Variables ***
-${HOST}    http://localhost:7272/
+${HOST}    http://127.0.0.1:7272/
 ${VALID_USERNAME}    demo
 ${VALID_PASSWORD}    mode
 ${INVALID_USERNAME}    wronguser
